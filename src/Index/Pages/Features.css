@@ -1,0 +1,71 @@
+.decision
+{
+    background-color: #34495e;
+    text-align: center;
+    padding: 20px;
+}
+.vote
+{
+    text-align: center;
+    margin-top: 11%;
+}
+.pooling
+{
+    text-align: center;
+    color: black;
+}
+h1,p,h2,li
+{
+    font-family: 'Kaisei HarunoUmi', serif;
+}
+
+.Reliable
+{
+    width: 55px;
+    height: 55px;
+}
+
+.ReliableDiv
+{
+    text-align: center;
+    margin-top: 7%;
+}
+
+.inner
+{
+    display: inline-block;
+}
+
+.innerPic
+{
+    width: 650px;
+    height: 360px;
+    margin-left: 5%;
+}
+
+.outer
+{
+    display: inline-block;
+}
+
+
+.safe
+{
+    text-align: left;
+    margin-top: 5%;
+    color: black;
+}
+
+.online
+{
+    text-align: left;
+    color: white;
+}
+.make
+{
+    color: white;
+}
+.myP
+{
+    color: white;
+}
